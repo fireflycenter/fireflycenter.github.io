@@ -41,3 +41,52 @@
 .announcement span.label {
   font-weight: bold;
 }
+
+.header {
+  width: 1000px;
+  position: absolute;
+  margin-top: -36px;
+  background-color: rgb(108, 22, 32);
+}
+
+.header .inner {
+  text-align: center;
+  width: 1000px;
+}
+
+.link {
+  display: inline-block;
+  background-color: green;
+  border-radius: 14px;
+  padding: 4px 6px;
+  margin: 4px;
+  text-align: center;
+}
+
+.link a {
+  color: #000;
+  text-decoration: none;
+}
+
+.blue {
+  background-color: rgb(175, 222, 247);
+}
+
+.orange {
+  background-color: rgb(234, 154, 7);
+}
+
+.yellow {
+  background-color: rgb(255, 252, 0);
+}
+
+.green {
+  background-color: rgb(141, 210, 66);
+}
+
+.title {
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 100;
+  color: blue;
+}
